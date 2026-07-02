@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=CanhBaoVatCan
+Exec=lxterminal -e "/home/nhom1/bai3-ngay2thang7-canhBao/run_canhBao.sh"
+StartupNotify=false
+Terminal=false
